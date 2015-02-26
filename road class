@@ -4,9 +4,10 @@ RAS10014
 Reported accidents by region, local authority and road class, England, 2013							
 							Number of accidents
 							
-							
 			                A	       A	All A  		
 ONS Code	Region/Local Authority	Motorway	Trunk1	Principal	roads2	Minor	All
+<section id=”map”></section>							
+
 E12000001	North East	68	357	1,862	2,219	2,866	5,153
 E06000047	County Durham	30	34	304	338	581	949
 E06000005	Darlington	6	9	71	80	145	231
